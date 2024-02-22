@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "O:\\Repositories\\ASP.NET-Controller-Task\\wwwroot\\sample.pdf",
+      "PackagePath": "staticwebassets\\sample.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ASP.NET-Controller-Task.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ASP.NET-Controller-Task.props",
+      "PackagePath": "build\\ASP.NET-Controller-Task.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ASP.NET-Controller-Task.props",
+      "PackagePath": "buildMultiTargeting\\ASP.NET-Controller-Task.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ASP.NET-Controller-Task.props",
+      "PackagePath": "buildTransitive\\ASP.NET-Controller-Task.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

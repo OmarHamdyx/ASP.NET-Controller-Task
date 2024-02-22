@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "t/ejoV8bqUqPcWVjJpbupkjtOkAMrfCx8Qi55ROaidk=",
+  "Source": "ASP.NET-Controller-Task",
+  "BasePath": "_content/ASP.NET-Controller-Task",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASP.NET-Controller-Task\\wwwroot",
+      "Source": "ASP.NET-Controller-Task",
+      "ContentRoot": "O:\\Repositories\\ASP.NET-Controller-Task\\wwwroot\\",
+      "BasePath": "_content/ASP.NET-Controller-Task",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "O:\\Repositories\\ASP.NET-Controller-Task\\wwwroot\\sample.pdf",
+      "SourceId": "ASP.NET-Controller-Task",
+      "SourceType": "Discovered",
+      "ContentRoot": "O:\\Repositories\\ASP.NET-Controller-Task\\wwwroot\\",
+      "BasePath": "_content/ASP.NET-Controller-Task",
+      "RelativePath": "sample.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sample.pdf"
+    }
+  ]
+}
