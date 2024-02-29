@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NET-Controller-Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+216106aff3abc902077d705276c1ab77938c5580")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NET-Controller-Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NET-Controller-Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
